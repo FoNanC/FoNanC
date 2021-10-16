@@ -6,8 +6,9 @@
   <summary>Media</summary>
   <p>
    <ul>
+<li> <a href="https://www.instagram.com/cinaryildiz0/?hl=tr">Instagram</a></li>
      <li> <a href="https://discord.com/users/429741616602021898">Discord</a></li>
-     <li><a href="https://open.spotify.com/user/64ulhlks4q5m07ysq57kj6yd7">Spotify</a></li>
+     <li> <a href="https://open.spotify.com/user/64ulhlks4q5m07ysq57kj6yd7">Spotify</a></li>
    </ul>
    </p>
 </details>
